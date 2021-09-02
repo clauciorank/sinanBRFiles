@@ -1,4 +1,4 @@
 # sinanBRFiles
 Files for sinanBR package in R
 
-Last uupdated: 02/09/21
+Last updated: 02/09/21
